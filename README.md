@@ -1,7 +1,6 @@
 # About me 👋
 
-Advisory to SaaS Solutions in Governance, Growth & Innovation.
-
+Partnering with established businesses to drive growth and governance through compliant frameworks and AI-enhanced systems.
 
 
  
