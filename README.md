@@ -15,7 +15,7 @@ I operate at the rare intersection of **Finance, Governance, and Technology**. W
 #### 📖 Digital Legacy & Storytelling
 * **[Tamiru and Selam](https://tamirunselam.com)**: A premier portfolio piece demonstrating an **18-year interactive family archive**. A living example of how technology can preserve an integrated, decent life.
 * **[Journey to Pride](https://www.journeytopride.store)**: My published memoir and platform for **"Living Digital Memoirs"**—merging immersive UI/UX with AI-powered storytelling.
-* **[Tiringo Tadesse Sahile] (http://www,tiringotadesse.et)**: **"A Living Memoir of my Mom"**- An interactive digital monument honoring a family matriarch. Showcases custom vanilla JavaScript architecture—including a dynamic, expandable family tree and a real-time Google Apps Script community wall—to immortalize a legacy of faith and resilience.
+* **[Tiringo Tadesse Sahile](http://www,tiringotadesse.et)**: **"A Living Memoir of my Mom"**- An interactive digital monument honoring a family matriarch. Showcases custom vanilla JavaScript architecture—including a dynamic, expandable family tree and a real-time Google Apps Script community wall—to immortalize a legacy of faith and resilience.
 
 ---
 
